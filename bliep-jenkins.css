@@ -19,10 +19,10 @@ h1, h2, h3, h4, h5, h6 {
     height: auto;
     width: auto; }
   #top-panel td > a {
-    background: url("https://www.bliep.nl/static/img/logo-square.jpg") 0 0 no-repeat;
+    background: url("https://www.bliep.nl/static/img/logo56x56.png.jpg") 0 0 no-repeat;
     display: block;
-    width: 160px;
-    height: 160px;
+    width: 120px;
+    height: 80px;
     margin: 3px 0 3px 3px; }
     #top-panel td > a img {
       display: none; }

@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
     height: auto;
     width: auto; }
   #top-panel td > a {
-    background: url("https://www.bliep.nl/static/img/logo56x56.png") 0 0 no-repeat;
+    background: black; url("https://www.bliep.nl/static/img/logo56x56.png") 0 0 no-repeat;
     display: block;
     width: 120px;
     height: 60px;

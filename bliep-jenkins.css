@@ -1,6 +1,6 @@
 body {
   background: #63818a;
-  background: -moz-linear-gradient(top, ##FFEB00 0%, #73939b 100%);
+  background: -moz-linear-gradient(top, #FFEB00 0%, #73939b 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFEB00), color-stop(100%, #73939b));
   background: -webkit-linear-gradient(top, #FFEB00 0%, #73939b 100%);
   background: -o-linear-gradient(top, #FFEB00 0%, #73939b 100%);
@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
     background: url("https://www.bliep.nl/static/img/logo-square.jpg") 0 0 no-repeat;
     display: block;
     width: 130px;
-    height: 140px;
+    height: 160px;
     margin: 3px 0 3px 3px; }
     #top-panel td > a img {
       display: none; }
